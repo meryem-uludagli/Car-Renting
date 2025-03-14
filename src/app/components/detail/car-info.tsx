@@ -1,5 +1,3 @@
-"use client";
-
 import { Car } from "@/app/types";
 import { FaHeart, FaStar } from "react-icons/fa";
 import RentButton from "./rent-button";
